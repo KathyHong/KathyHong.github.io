@@ -1,7 +1,7 @@
 # Site settings
 title: 桃子的梦想~
-SEOTitle: 一颗有梦想的桃子 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 桃子の日常 | 欢迎你来到桃子的小窝
+header-img: img/mybackground.jpg
 email: 1151032304@qq.com
 description: "Every failure is leading towards success."
 keyword: "程序媛, 前端开发, 桃子的博客, 孔思莹, vue, 小程序"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/KathyHong/KathyHong.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Every failure is leading towards success."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/myphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     
 zhihu_username:     是桃子精呀
 github_username:    KathyHong
-facebook_username:  
-jianshu_username:   
+facebook_username:  孔思莹
+jianshu_username:   是桃子精呀
 #twitter_username:   
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 76b528333ed05be5b11d                            #生成的clientID
-  clientSecret: 159e42f7a7be54dd625d03ebc4ca5ff27623239b    #生成的clientSecret
+  clientID: f75be0af2e427c07b70c                            #生成的clientID
+  clientSecret: b7bc23ed713473b32aa9cd265407ddda49f6c782    #生成的clientSecret
   repo: KathyHong.github.io    #仓库名称
   owner: KathyHong    #github用户名
   admin: KathyHong
